@@ -8,6 +8,13 @@ chmod +x configuration.sh
 ./configuration.sh
 ```
 
+Reboot your machine for the changes to take action
+
+```bash
+chmod +x installation.sh
+./installation.sh
+```
+
 
 **For a step by step, manual install**
 
