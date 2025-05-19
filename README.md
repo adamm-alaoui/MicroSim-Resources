@@ -1,4 +1,4 @@
-## MicroSim Ressources
+## MicroSim Resources
 
 This repository contains all resources related to properly setup MicroSim.
 
